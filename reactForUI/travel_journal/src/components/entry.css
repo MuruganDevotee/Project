@@ -1,0 +1,73 @@
+.Entry-box{
+    /* background-color: aliceblue; */
+    display: flex;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.Entry-box1{
+height: fit-content;
+width: fit-content;
+}
+.cardImg{
+    height: 250px;
+    width: 200px;
+    border-radius: 5px;
+}
+.Entry-box2{
+    margin-top: 20px;
+    height: fit-content;
+    width: 60%;
+    padding-top: 40px;
+    /* width: fit-content; */
+    /* display: flex; */
+}
+.subHead{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    width: fit-content;
+    margin-left: 30px;
+}
+.link{
+    text-decoration: underline;
+    color: rgba(0, 0, 0, 0.436);
+    /* font-weight: bold; */
+    font-size: small;
+}
+
+.imgCity{
+    display: flex;
+    
+    align-items: center;
+}
+.contentbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+    padding: 30px;
+    margin-bottom: 40px;
+    padding-top: 0%;
+    height: fit-content;
+    width: fit-content !important;
+    
+    
+}
+.heading{
+    /* margin-bottom: 0px;
+    margin-top: 0px; */
+    margin-bottom: 20px;
+    margin-top: 0px;
+    width: fit-content;
+}
+.subHeading{
+    margin: 0%;
+    width: fit-content;
+}
+.content{
+    margin: 0%;
+    /* width: 70%; */
+}

@@ -1,0 +1,16 @@
+.header--icon{
+  width:30px;
+  margin-right:10px;
+  border-radius: 100%;
+}
+.header{
+  background-color: orangered;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+.header--title{
+  color: white;
+  /* font-size: 2rem; */
+}
